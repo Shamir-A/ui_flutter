@@ -20,5 +20,7 @@ samples, guidance on mobile development, and a full API reference.
 ![Login Page](https://github.com/Shamir-A/ui_flutter/assets/124552331/4bb2c0ca-956d-4a50-84c8-79c1da2c5fcc)
 
 # UI -02 Movie App
-# Working on it.....
+
+![Movie App](https://github.com/Shamir-A/ui_flutter/assets/124552331/59015e25-068f-4212-b6a9-ab9b2f581bf3)
+
 
