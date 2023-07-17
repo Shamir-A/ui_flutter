@@ -33,6 +33,7 @@ dependencies:
   device_preview: ^1.1.0
   carousel_slider: ^4.2.1
   flashy_tab_bar2: ^0.0.6
+  lottie:
 
 
   # The following adds the Cupertino Icons font to your application.
@@ -68,6 +69,7 @@ flutter:
     - assets/images/UI - 01/
     - assets/images/UI - 02/
     - assets/images/UI - 02/MoviePosters/
+    - assets/images/UI - 03/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
