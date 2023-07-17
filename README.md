@@ -23,4 +23,8 @@ samples, guidance on mobile development, and a full API reference.
 
 ![Movie App](https://github.com/Shamir-A/ui_flutter/assets/124552331/59015e25-068f-4212-b6a9-ab9b2f581bf3)
 
+# UI - 03 Trading App
+
+![Trading App](https://github.com/Shamir-A/ui_flutter/assets/124552331/e3df48ee-29ed-400c-a4a6-a977e515a63e)
+
 
