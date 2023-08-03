@@ -70,6 +70,7 @@ flutter:
     - assets/images/UI - 02/
     - assets/images/UI - 02/MoviePosters/
     - assets/images/UI - 03/
+    - assets/images/UI - 04/
   #   - images/a_dot_ham.jpeg
 
   # An image asset can refer to one or more resolution-specific "variants", see
